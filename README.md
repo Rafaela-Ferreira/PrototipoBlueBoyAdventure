@@ -30,9 +30,6 @@ Destinado a jogadores a partir de 12 anos, fãs de RPGs e jogos de ação com fo
 
 O desenvolvimento contou com o apoio de videoaulas do canal [RyiSnow](https://www.youtube.com/@RyiSnow), cujos códigos e tutoriais foram fundamentais para a implementação das mecânicas principais.
 
-Repositório de código: [github.com/Rafaela-Ferreira/PrototipoBlueBoyAdventure](https://github.com/Rafaela-Ferreira/PrototipoBlueBoyAdventure)
-
-
 ## 🧰 Requisitos para Executar no Visual Studio Code
 Para rodar o projeto Java no VS Code, é necessário instalar as seguintes extensões:
 - Java Extension Pack – pacote que inclui:
@@ -56,7 +53,7 @@ git clone https://github.com/Rafaela-Ferreira/PrototipoBlueBoyAdventure.git
 
 ## 🖼️ Imagem do Protótipo
 
-![Tela do jogo Blue Boy Adventure](caminho/para/imagem.png)
+![Tela do jogo Blue Boy Adventure](A_UltimaLuz\src\img\BlueBoyAdventure.jpg)
 
 ## 🧑‍💻 Autora
 Rafaela Ferreira – Desenvolvedora e pesquisadora do projeto.
