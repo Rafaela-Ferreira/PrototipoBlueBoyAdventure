@@ -53,7 +53,8 @@ git clone https://github.com/Rafaela-Ferreira/PrototipoBlueBoyAdventure.git
 
 ## 🖼️ Imagem do Protótipo
 
-![Tela do jogo Blue Boy Adventure](BlueBoyAdventure.jpg)
+<!-- ![Tela do jogo Blue Boy Adventure](BlueBoyAdventure.jpg)-->
+<img src="BlueBoyAdventure.jpg" alt="Tela do jogo Blue Boy Adventure" width="400"/>
 
 ## 🧑‍💻 Autora
 Rafaela Ferreira – Desenvolvedora e pesquisadora do projeto.
