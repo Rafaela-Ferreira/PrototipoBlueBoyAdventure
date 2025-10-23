@@ -32,6 +32,22 @@ O desenvolvimento contou com o apoio de videoaulas do canal [RyiSnow](https://ww
 
 Repositório de código: [github.com/Rafaela-Ferreira/PrototipoBlueBoyAdventure](https://github.com/Rafaela-Ferreira/PrototipoBlueBoyAdventure)
 
+
+## 🧰 Requisitos para Executar no Visual Studio Code
+Para rodar o projeto Java no VS Code, é necessário instalar as seguintes extensões:
+- Java Extension Pack – pacote que inclui:
+  - Language Support for Java™ by Red Hat
+  - Debugger for Java
+  - Java Test Runner
+  - Maven for Java
+  - Visual Studio IntelliCode
+
+## ⚙️ Configuração do Ambiente
+- Instale o Java JDK (versão 21).
+- Instale o Visual Studio Code.
+- Abra o VS Code e instale o Java Extension Pack pela aba de extensões.
+- Clone o repositório:
+
 ## 📥 Como Executar
 - Clone o repositório:
 git clone https://github.com/Rafaela-Ferreira/PrototipoBlueBoyAdventure.git
