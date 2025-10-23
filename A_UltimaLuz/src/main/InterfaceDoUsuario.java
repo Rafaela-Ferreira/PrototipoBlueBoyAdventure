@@ -340,7 +340,7 @@ public class InterfaceDoUsuario {
 
             //Nome do titulo
             g2.setFont(g2.getFont().deriveFont(Font.BOLD, 96F));
-            String texto = "-- Protótipo --";
+            String texto = "Blue Boy Adventure";
             int x = obterTextoXCentralizado(texto);
             int y = painel.tamanhoDoTile*3;
             

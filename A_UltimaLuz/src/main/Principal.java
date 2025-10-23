@@ -9,7 +9,7 @@ public class Principal {
         janela = new JFrame();
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janela.setResizable(false);
-        janela.setTitle("Titulo do jogo");
+        janela.setTitle("Blue Boy Adventure");
         new Principal().setIcone();
 
         PainelDoJogo painelDoJogo = new PainelDoJogo();
